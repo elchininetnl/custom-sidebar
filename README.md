@@ -45,6 +45,7 @@ This is a refactor of [custom-sidebar-v2] by @galloween, which unfortunately is 
 
 ## Installation
 
+
 You can install the plugin manually or through [HACS], not both. If you install the plugin using the two installations methods you could have issues or errors.
 
 ### Through HACS (v2 or greater)
